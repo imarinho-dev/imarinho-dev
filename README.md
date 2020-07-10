@@ -1,7 +1,5 @@
-#Iran Marinho
-
+# Iran Marinho
 [![Linkedin Badge](https://img.shields.io/badge/IranMarinho-blue?logo=linkedin&style=social&link=https://www.linkedin.com/in/iran-marinho/)(https://www.linkedin.com/in/iran-marinho/)]
-
 ### Hi there :bowtie:
 
 #### I'm Front End Developer
