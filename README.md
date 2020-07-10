@@ -1,8 +1,6 @@
 #Iran Marinho
 
-[![Linkedin Badge](https://img.shields.io/badge/-IranMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iran-marinho/)
-[![Gmail Badge](https://img.shields.io/badge/-imarinho.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imarinho.dev@gmail.com)](mailto:danieltsutomu@gmail.com)]
-
+![Linkedin Badge](https://img.shields.io/badge/IranMarinho-blue?logo=linkedin&style=social&link=https://www.linkedin.com/in/iran-marinho/)
 
 ### Hi there :bowtie:
 
