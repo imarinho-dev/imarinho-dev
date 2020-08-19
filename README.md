@@ -6,10 +6,10 @@
 
 ### Hi there :bowtie:
 
-#### I'm Front End Developer
+#### I'm Front End Developer/Designer
 
 - :computer: I’m currently working on HTML, CSS and Javascript
-- :mortar_board: I’m currently learning Node, Database , React, Flutter and English"Yeah"
+- :mortar_board: I’m currently learning Node, Database , Reactjs, and English"Yeah"
 - 💬 Ask me about tech, games, linux
 
 #### "If you can, just do it"
