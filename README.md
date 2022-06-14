@@ -1,10 +1,12 @@
-# Hey everyone! I'm Iran Marinho
+<h1> Hey everyone! I'm Iran Marinho<h1/>
+
+<p> <img src="https://komarev.com/ghpvc/?username=imarinho-dev&color=yellow" height="24" alt="Profile views" /> </p>
 
 ## About me:
 
-- I'm currently changing careers from IT Support to Front-end Development.
-- I'm studying Sass at Udemy.
-- I like to hear rock music, read manga, and play games in my spare time.
+- :chart_with_upwards_trend: I'm currently changing careers from IT Support to Front-end Development.
+- :books: I'm currently learning Advanced Sass & Tailwind.
+- :desert_island: I like to hear rock music, read manga, and play games in my spare time.
 
 ## Languages and Tools:
 
