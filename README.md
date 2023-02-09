@@ -22,13 +22,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p>Me chamo Iran Marinho. Me formei na faculdade com meu diploma de Design.
-Eu escolhi Design porque após trabalhar como Suporte de TI
-por anos, eu queria trabalhar meu lado criativo. </p>
+<p>My name is Iran Marinho. I graduated from college with a Design degree.
+I chose Design because after working in IT support for years, I wanted to work with my creative side.</p>
 
-<p>No momento,
-estou procurando um cargo de desenvolvedor front-end
-de nível básico para iniciar a minha carreira.</p>
+<p>Currently, I am looking for an entry-level developer position to start my career.</p>
 
 #
 
