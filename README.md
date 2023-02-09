@@ -20,9 +20,10 @@
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  , I'm Iran Marinho
 </h1>
 
-<p>My name is Iran Marinho. I graduated from college with a Design degree.
+<p>I graduated from college with a Design degree.
 I chose Design because after working in IT support for years, I wanted to work with my creative side.</p>
 
 <p>Currently, I am looking for an entry-level developer position to start my career.</p>
@@ -47,5 +48,3 @@ I chose Design because after working in IT support for years, I wanted to work w
 #
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imarinho-dev&theme=transparent&layout=compact)
-
-#
