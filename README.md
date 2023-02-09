@@ -1,27 +1,54 @@
-<h1> Hey everyone! I'm Iran Marinho<h1/>
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
+</div>
 
-<p> <img src="https://komarev.com/ghpvc/?username=imarinho-dev&color=yellow" height="24" alt="Profile views" /> </p>
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/iran-marinho/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="mailto:imarinho.dev@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" /> 
+    </a>
+</div>
 
-## About me:
+<div id="profile" align="center">
 
-- :chart_with_upwards_trend: I'm currently changing careers from IT Support to Front-end Development.
-- :books: I'm currently learning Advanced Sass & Tailwind.
-- :desert_island: I like to hear rock music, read manga, and play games in my spare time.
+![Profile View Counter](https://komarev.com/ghpvc/?username=imarinho-dev)
 
-## Languages and Tools:
+</div>
 
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" with="40" height="40" />&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-&nbsp;
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-## Still learning:
+<p>Me chamo Iran Marinho. Me formei na faculdade com meu diploma de Design.
+Eu escolhi Design porque após trabalhar como Suporte de TI
+por anos, eu queria trabalhar meu lado criativo. </p>
 
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" width="40" height="40" />
-&nbsp;
+<p>No momento,
+estou procurando um cargo de desenvolvedor front-end
+de nível básico para iniciar a minha carreira.</p>
 
-## How to reach me:
+#
 
-[![Linkedin Badge](https://img.shields.io/badge/IranMarinho-blue?logo=linkedin&style=social&link=https://www.linkedin.com/in/iran-marinho/)](https://www.linkedin.com/in/iran-marinho/)
-[![Gmail Badge](https://img.shields.io/badge/imarinho.dev@gmail.com-blue?logo=gmail&style=social&link=mailto:imarinho.dev@gmail.com)](mailto:imarinho.dev@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/iranmarinho-blue?logo=instagram&style=social&link=https://www.instagram.com/iranmarinho/)](https://www.instagram.com/iranmarinho/)
+## 🖥️ Languages and Tools
+
+<br>
+<div style="height: 60px">
+    <img  alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img  alt="css" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img  alt="javascript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img  alt="react" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  />
+    <img  alt="tailwind" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img  alt="vitejs" width="30px" style="padding-right:10px" src="https://api.iconify.design/vscode-icons/file-type-vite.svg" />
+    <img  alt="git" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+    <img  alt="linux" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img  alt="linux" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" />
+</div>
+
+#
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imarinho-dev&theme=transparent&layout=compact)
+
+#
