@@ -38,6 +38,8 @@ I chose Design because after working in IT support for years, I wanted to work w
     <img  alt="css" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img  alt="javascript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img  alt="vue" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  />
+    <img  alt="nuxt" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"  />
+    <img  alt="quasar framework" width="30px" style="padding-right:10px" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg"  />
     <img  alt="tailwind" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     <img  alt="vitejs" width="30px" style="padding-right:10px" src="https://api.iconify.design/vscode-icons/file-type-vite.svg" />
     <img  alt="git" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
