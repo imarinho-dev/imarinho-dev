@@ -23,8 +23,7 @@
   , I'm Iran Marinho
 </h1>
 
-<p>I graduated from college with a Design degree.
-I chose Design because after working in IT support for years, I wanted to work with my creative side.</p>
+<p>Hello, I am a front-end developer looking for an opportunity to start my career in the field. Although I do not have any professional experience yet, I have a great interest and dedication to learning and growing in the web development industry.</p>
 
 <p>Currently, I am looking for an entry-level developer position to start my career.</p>
 
